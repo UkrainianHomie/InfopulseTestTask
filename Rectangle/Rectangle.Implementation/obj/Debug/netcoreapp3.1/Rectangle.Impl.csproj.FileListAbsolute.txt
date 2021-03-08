@@ -1,0 +1,9 @@
+C:\Users\Админ\source\repos\Rectangle\Rectangle.Implementation\bin\Debug\netcoreapp3.1\Rectangle.Impl.deps.json
+C:\Users\Админ\source\repos\Rectangle\Rectangle.Implementation\bin\Debug\netcoreapp3.1\Rectangle.Impl.dll
+C:\Users\Админ\source\repos\Rectangle\Rectangle.Implementation\bin\Debug\netcoreapp3.1\Rectangle.Impl.pdb
+C:\Users\Админ\source\repos\Rectangle\Rectangle.Implementation\obj\Debug\netcoreapp3.1\Rectangle.Impl.csprojAssemblyReference.cache
+C:\Users\Админ\source\repos\Rectangle\Rectangle.Implementation\obj\Debug\netcoreapp3.1\Rectangle.Impl.AssemblyInfoInputs.cache
+C:\Users\Админ\source\repos\Rectangle\Rectangle.Implementation\obj\Debug\netcoreapp3.1\Rectangle.Impl.AssemblyInfo.cs
+C:\Users\Админ\source\repos\Rectangle\Rectangle.Implementation\obj\Debug\netcoreapp3.1\Rectangle.Impl.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\Rectangle\Rectangle.Implementation\obj\Debug\netcoreapp3.1\Rectangle.Impl.dll
+C:\Users\Админ\source\repos\Rectangle\Rectangle.Implementation\obj\Debug\netcoreapp3.1\Rectangle.Impl.pdb

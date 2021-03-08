@@ -1,0 +1,9 @@
+C:\Users\Админ\source\repos\RomanMath\RomanMath.Impl\bin\Debug\netcoreapp3.1\RomanMath.Impl.deps.json
+C:\Users\Админ\source\repos\RomanMath\RomanMath.Impl\bin\Debug\netcoreapp3.1\RomanMath.Impl.dll
+C:\Users\Админ\source\repos\RomanMath\RomanMath.Impl\bin\Debug\netcoreapp3.1\RomanMath.Impl.pdb
+C:\Users\Админ\source\repos\RomanMath\RomanMath.Impl\obj\Debug\netcoreapp3.1\RomanMath.Impl.AssemblyInfoInputs.cache
+C:\Users\Админ\source\repos\RomanMath\RomanMath.Impl\obj\Debug\netcoreapp3.1\RomanMath.Impl.AssemblyInfo.cs
+C:\Users\Админ\source\repos\RomanMath\RomanMath.Impl\obj\Debug\netcoreapp3.1\RomanMath.Impl.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\RomanMath\RomanMath.Impl\obj\Debug\netcoreapp3.1\RomanMath.Impl.dll
+C:\Users\Админ\source\repos\RomanMath\RomanMath.Impl\obj\Debug\netcoreapp3.1\RomanMath.Impl.pdb
+C:\Users\Админ\source\repos\RomanMath\RomanMath.Impl\obj\Debug\netcoreapp3.1\RomanMath.Impl.csprojAssemblyReference.cache

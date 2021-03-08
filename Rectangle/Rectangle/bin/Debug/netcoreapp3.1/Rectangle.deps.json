@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Rectangle/1.0.0": {
+        "dependencies": {
+          "Rectangle.Impl": "1.0.0"
+        },
+        "runtime": {
+          "Rectangle.dll": {}
+        }
+      },
+      "Rectangle.Impl/1.0.0": {
+        "runtime": {
+          "Rectangle.Impl.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rectangle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Rectangle.Impl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
